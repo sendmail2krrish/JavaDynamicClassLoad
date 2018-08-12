@@ -1,4 +1,4 @@
-# Java Dynamic Class Load
+# Java Dynamic Instance
 
 * Simple MVC
 * Dynamically create an instance of the Class
